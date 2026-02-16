@@ -1,0 +1,20 @@
+# Core ML Framework
+torch>=2.6.0
+torchvision>=0.21.0
+
+# UI Framework
+gradio>=6.0.1
+
+# Scientific Computing
+numpy>=1.26.0
+scipy>=1.13.0
+
+# Medical Imaging
+nibabel>=5.3.0
+
+# Visualization
+matplotlib>=3.8.0
+Pillow>=10.2.0
+
+# Utilities
+tqdm>=4.66.0
